@@ -15,4 +15,5 @@ How to reproduce bug.
 5. Navigate to "users/1?bug=true" to receive the missing attribute error(users#show Line 17).
 
 Or
+
 Run 'User.select(:name).first' in the console once a user has been created
